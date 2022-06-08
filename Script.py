@@ -101,7 +101,7 @@ This module only works for my admins
 ★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 ★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
     DONATE_TXT = """<Hey {}
-[Here is the Donation Link](https://t.me/Ak_Botdevelopers/15) ❤"""
+[Here is the Donation Link](https://t.me/kmtz_channel_v3) ❤"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
