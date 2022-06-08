@@ -47,7 +47,7 @@ async def start(client, message):
             InlineKeyboardButton('🤖 Creators', url='https://t.me/kmtz_channel_v3'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
-            InlineKeyboardButton('😎 YOUTUBE', url='http://instagram.com/kl_02_pranav_?utm_source=qr'),
+            InlineKeyboardButton('😜 YOUTUBE', url='http://instagram.com/kl_02_pranav_?utm_source=qr'),
             InlineKeyboardButton('ℹ️ Help', callback_data='help')
             ],[
             InlineKeyboardButton('❤️ 𝓢𝓸𝓾𝓻𝓬𝓮', url='https://github.com/Telegram1999/rolex2')
@@ -92,7 +92,7 @@ async def start(client, message):
             InlineKeyboardButton('🤖 Creators', url='https://t.me/kmtz_channel_v3'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
-            InlineKeyboardButton('😎 YOUTUBE', url='http://instagram.com/kl_02_pranav_?utm_source=qr'),
+            InlineKeyboardButton('😜 YOUTUBE', url='http://instagram.com/kl_02_pranav_?utm_source=qr'),
             InlineKeyboardButton('ℹ️ Help', callback_data='help')
             ],[
             InlineKeyboardButton('❤️ 𝓢𝓸𝓾𝓻𝓬𝓮', url='https://github.com/Telegram1999/rolex2')
